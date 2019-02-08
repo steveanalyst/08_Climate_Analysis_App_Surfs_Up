@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Surfs Up!
 
 ![surfs-up.jpeg](Images/surfs-up.jpeg)
@@ -132,6 +131,3 @@ Now that you have completed your initial analysis, design a Flask API based on t
 ## Copyright
 
 Data Boot Camp ©2018. All Rights Reserved.
-=======
-# 08_Climate_Analysis_App_Surfs_Up
->>>>>>> fade509121b042ef9b989fa688d4b7aa6643ff51
